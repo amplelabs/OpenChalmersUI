@@ -1,0 +1,27 @@
+{
+  "meal": {
+    "address": "1350 Waller St, San Francisco, CA 94117",
+    "organizationName": "All Saints’ Episcopal Church",
+    "phone_Number": "415-621-1862",
+    "latitude": "37.7694144",
+    "longitude": "-122.4460257",
+    "program": "All Saints’ Episcopal Church",
+    "LGBTQ": "TRUE",
+    "resourceId": 1,
+    "meals__age__001": 0,
+    "meals__age__002": 99,
+    "meals__startTime": "10:30",
+    "meals__endTime": "11:30",
+    "meals__type": "Brunch",
+    "meals__notes": "na",
+    "meals__gender": "mix",
+    "meals__race": "",
+    "meals__dayOfWeek__001": "Sat",
+    "meals__dayOfWeek__002": "",
+    "meals__dayOfWeek__003": "",
+    "meals__dayOfWeek__004": "",
+    "meals__dayOfWeek__005": "",
+    "meals__dayOfWeek__006": "",
+    "meals__dayOfWeek__007": ""
+  }
+}

@@ -38,9 +38,9 @@ $ npm install
 Before you start the UI, modify / confirm the parameters that matches your AWS Lex configuration in `src/config/config.dev.json`.  For limited time, you can access Ample Labs dev environment to test you UI.
 
 The following parameters are required (consult official AWS Lex Development guild for details)
-- Cognito Pool ID
-- Bot Name
-- Bot Alias
+- Cognito Pool ID: from your AWS Cognito Identity Pool console. If you use the cloudformation template above, it will be Lex Web UI, sample code from the left panel.
+- Bot Name: from your AWS Lex console after build / publish stage
+- Bot Alias: from your AWS Lex console after build / publish stage
 
 ### Run
 

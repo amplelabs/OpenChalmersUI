@@ -42,6 +42,8 @@ The following parameters are required (consult official AWS Lex Development guil
 - Bot Name: from your AWS Lex console after build / publish stage
 - Bot Alias: from your AWS Lex console after build / publish stage
 
+For more information, see the README.md from OpenChalmersBot project.
+
 ### Run
 
 You can run the chatbot locally, with hot-reloading, on the address http://localhost:8080 by typing:
